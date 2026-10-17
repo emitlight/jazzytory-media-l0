@@ -1,0 +1,32 @@
+[
+ {
+  "moduleId": "m-l0-01-placement",
+  "title": "나는 지금 어디에 있는가",
+  "durationSec": 1101.6889,
+  "version": 1,
+  "bgm": "Music: \"Airport Lounge\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 82597411,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media-l0"
+ },
+ {
+  "moduleId": "m-l0-02-practice-design",
+  "title": "연습 설계와 루틴",
+  "durationSec": 1193.0009,
+  "version": 1,
+  "bgm": "Music: \"Jazz Brunch\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 88081159,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media-l0"
+ },
+ {
+  "moduleId": "m-l0-03-keyboard-geography",
+  "title": "건반 지형과 재즈식 운지",
+  "durationSec": 1033.6541,
+  "version": 1,
+  "bgm": "Music: \"Deuces\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 76669672,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media-l0"
+ }
+]
